@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20080105-0blankon2) lontara; urgency=low
+
+  * Updated dependency and added icon.
+
+ -- mdamt <mdamt@mnots.eu>  Mon, 14 Apr 2008 22:30:13 +0300
+
 scim-tables-indonesian (0.0.20080105-0blankon1) lontara; urgency=low
 
   * Initial release

@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: scim-tables-indonesian
 Architecture: all
-Depends: scim
+Depends: scim-modules-table
 Description: Indonesian SCIM tables 
  Indonesian SCIM tables. 
