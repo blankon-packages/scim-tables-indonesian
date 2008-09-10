@@ -1,3 +1,10 @@
+scim-tables-indonesian (0.0.20080105-0blankon3) meuligoe; urgency=low
+
+  * upgrade ke meuligoe
+  * Standards-Version: 3.8.0
+
+ -- Muhammad Takdir <muhammad.takdir@gmail.com>  Mon, 11 Aug 2008 15:35:08 +0800
+
 scim-tables-indonesian (0.0.20080105-0blankon2) lontara; urgency=low
 
   * Updated dependency and added icon.
