@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20080105+blankon1) nanggar; urgency=low
+
+  * impor ke nanggar
+
+ -- Muhammad Takdir <muhammad.takdir@gmail.com>  Thu, 26 Mar 2009 08:00:52 +0800
+
 scim-tables-indonesian (0.0.20080105-0blankon3) meuligoe; urgency=low
 
   * upgrade ke meuligoe
