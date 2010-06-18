@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20100618.1) ombilin; urgency=low
+
+  * New Bali input method
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 18 Jun 2010 19:17:46 +0700
+
 scim-tables-indonesian (0.0.20100618) ombilin; urgency=low
 
   * New Sunda input method.

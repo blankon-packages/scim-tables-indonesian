@@ -1,12 +1,12 @@
 ﻿SCIM_Generic_Table_Phrase_Library_TEXT
 VERSION_1_0
 BEGIN_DEFINITION
-
+### Begin Table definition.
 LICENSE = LGPL
 # (c) Yulian Firdaus Hendriyana 2008
 UUID = bc22fdb7-6b5d-44ee-a668-03365de89fc3
 SERIAL_NUMBER = 20100504
-ICON = sundanese.svg
+ICON = /usr/share/scim/icons/Sundanese.png
 NAME = Sundanese
 DESCRIPTION = Sundanese phonetic table
 LANGUAGES = id_ID,su_ID
