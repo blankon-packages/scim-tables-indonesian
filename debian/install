@@ -1,2 +1,6 @@
 *.bin	/usr/share/scim/tables/
-*.png	/usr/share/scim/icons/
+*.mim	/usr/share/m17n/
+su-phonetic.png	/usr/share/m17n/icons/
+Balinese.png	/usr/share/scim/icons/
+BatakToba.png	/usr/share/scim/icons/
+Buginese.png	/usr/share/scim/icons/
