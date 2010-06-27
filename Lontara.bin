@@ -43,6 +43,7 @@ END_DEFINITION
 BEGIN_TABLE
 -	᨟	0
 .	᨞	0
+AE	ᨕᨛᨛ	0
 A	ᨕ	0
 B	ᨅ	0
 BA	ᨅ	0
@@ -114,6 +115,7 @@ NYAE	ᨎᨛ	0
 NYC	ᨏ	0
 NYCA	ᨏ	0
 NYCAE	ᨏᨛ	0
+ae	ᨕᨛᨛ	0
 a	ᨕ	0
 b	ᨅ	0
 ba	ᨅ	0
