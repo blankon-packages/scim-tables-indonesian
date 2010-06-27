@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20100627) ombilin; urgency=low
+
+  * restore sundanese to .bin
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 27 Jun 2010 12:01:51 +0700
+
 scim-tables-indonesian (0.0.20100624) ombilin; urgency=low
 
   * sendanese to .mim
