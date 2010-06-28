@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20100628) ombilin; urgency=low
+
+  * update lontara.bin by mdamt
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 28 Jun 2010 10:49:56 +0700
+
 scim-tables-indonesian (0.0.20100627) ombilin; urgency=low
 
   * restore sundanese to .bin
