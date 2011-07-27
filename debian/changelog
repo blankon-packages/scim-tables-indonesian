@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20110727) pattimura; urgency=low
+
+  * Added javanese
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 27 Jul 2011 22:55:18 +0700
+
 scim-tables-indonesian (0.0.20110608) pattimura; urgency=low
 
   * modified batak.bin to follow nanggar.ttf modification in ttf-indonesian package
