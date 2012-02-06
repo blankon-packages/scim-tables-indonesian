@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20120205) rote; urgency=low
+
+  * Import To Rote
+
+ -- Azis Ws <azis.astrojim@surabaya.di.blankon.in>  Mon, 06 Feb 2012 22:45:28 +0700
+
 scim-tables-indonesian (0.0.20110727) pattimura; urgency=low
 
   * Added javanese
