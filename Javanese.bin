@@ -5,7 +5,7 @@ BEGIN_DEFINITION
 UUID = 56c26ac2-8b6b-4b41-bd26-9f1f1d889d01
 SERIAL_NUMBER = 20101026
 NAME = Jawa
-ICON = Jawa.svg
+ICON = /usr/share/scim/icons/Javanese.png
 LANGUAGES = id_ID
 AUTHOR = Putu Wiramaswara Widya <initru...@gmail.com>
 STATUS_PROMPT = Jawa
