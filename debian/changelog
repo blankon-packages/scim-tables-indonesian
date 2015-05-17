@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20120419) tambora; urgency=medium
+
+  * Upstream release
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 18 May 2015 00:08:39 +0700
+
 scim-tables-indonesian (0.0.20120418) rote; urgency=low
 
   * black icon language
