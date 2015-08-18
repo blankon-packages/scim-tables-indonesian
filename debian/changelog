@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20120419+1) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 18 Aug 2015 21:55:54 +0700
+
 scim-tables-indonesian (0.0.20120419) tambora; urgency=medium
 
   * Upstream release
