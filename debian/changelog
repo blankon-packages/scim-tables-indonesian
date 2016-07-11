@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20160711) tambora; urgency=medium
+
+  * New styles 
+
+ -- dotovr <dotovr@preko>  Mon, 11 Jul 2016 21:12:04 +0700
+
 scim-tables-indonesian (0.0.20120419+1) tambora; urgency=medium
 
   * Rebuild 
