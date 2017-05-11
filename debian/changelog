@@ -1,3 +1,9 @@
+scim-tables-indonesian (0.0.20160713+1) uluwatu; urgency=medium
+
+  * Rebuild package for Uluwatu.
+
+ -- Achmad Yusri Afandi <yusrideb@cpan.org>  Thu, 11 May 2017 23:05:31 +0800
+
 scim-tables-indonesian (0.0.20160713) tambora; urgency=medium
 
   * fix icon for systray
